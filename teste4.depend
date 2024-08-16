@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700694546 source:c:\users\usuario\desktop\engenharia de software\1 semestre\sistema berenice\código\projeto 4\código\teste4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
